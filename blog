@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>este es el titulo del post</title>
+     <link rel="stylesheet" href="css/estilos.css" />
+</head>
+<body>
+    <div id = "container">
+        <div id="cabecera">Cabecera
+        Hyperblog
+        <span id="tagine">
+            tu blog de confianza
+        </span>
+        </div>
+      <div id="post">
+          <h1>aqui vamos a hacer el blog post</h1>
+    <p>este es el parrafo de inicio donde vamos a 
+        explicar las cosas increibles que se pueden hacer con ramas y mucho mas  </p>
+     <b>
+         los blog son la mejor forma de aprender por internet </b>
+         por la informacion nutrida y por los comentarios que aportan
+     </p>
+      </div>
+    </div>
+</body>
+</html>
